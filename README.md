@@ -1,4 +1,4 @@
 android-delete-acct
 ===================
 
-Deletes First Android Account
+Utility to delete first android account from sync settings
